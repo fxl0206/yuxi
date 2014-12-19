@@ -6,7 +6,7 @@
     </list>
     <ignored path="yuxi.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="edd68a7b-4680-44df-9be8-8720607bc188" time="1418974043088" ignored="false" />
+    <file path="/Dummy.txt" changelist="edd68a7b-4680-44df-9be8-8720607bc188" time="1418974057697" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -374,7 +374,11 @@
       <created>1418974044669</created>
       <updated>1418974044669</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <created>1418974059041</created>
+      <updated>1418974059041</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
