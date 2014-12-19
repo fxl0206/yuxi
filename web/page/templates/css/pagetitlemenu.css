@@ -1,0 +1,27 @@
+ul.titlemenu{
+margin:0px;
+padding:6px 0px 20px 18px;
+}
+
+li.titlemenu{
+list-style-type:none;
+text-align:left;
+border-bottom:1px #fff solid;
+}
+
+a.titlemenu:link,a.titlemenu:visited,a.titlemenu:active{
+display:block;
+text-decoration: none;
+font:12px/35px Verdana, Arial, Helvetica, sans-serif;
+height:36px;
+text-align:left;
+background:url(../images/dot2.jpg) 0px 0px no-repeat;
+padding-left:50px;
+color:#555;
+}
+
+a.titlemenu:hover{
+display:block;
+color: #e10000; 
+text-decoration: none;
+}
